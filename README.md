@@ -6,13 +6,12 @@ This repository provides a **beginner-friendly guide to cloud computing**, expla
 
 ## 📖 Table of Contents
 1. [Servers](#servers)  
-2. [Cloud](#cloud)  
-3. [BaaS & FaaS](#baas--faas)  
-4. [Cloud Computing Concepts](#cloud-computing-concepts)  
-5. [IAM & IDaaS](#iam--idaas)  
-6. [IAM Policy Documents](#iam-policy-documents)  
-7. [VPC, Shared VPC, Subnets, VPN](#vpc-shared-vpc-subnets-and-vpn)  
-8. [Regions](#regions)  
+2. [Cloud Computing](#cloud-computing)  
+3. [Cloud Computing Concepts](#cloud-computing-concepts) 
+4. [IAM & IDaaS](#iam--idaas)  
+5. [IAM Policy Documents](#iam-policy-documents)  
+6. [VPC, Shared VPC, Subnets, VPN](#vpc-shared-vpc-subnets-and-vpn)  
+7. [Regions](#regions)  
 
 ---
 
@@ -25,7 +24,7 @@ A **server** is a computer or program that provides services/data to other compu
 
 ---
 
-## Cloud  
+## Cloud Computing  
 The **cloud** means using the internet to access computing resources instead of owning hardware.  
 
 - **Analogy**: Like electricity — you don’t build a power plant, you just pay for what you use.  
