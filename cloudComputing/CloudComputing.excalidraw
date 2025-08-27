@@ -1,7 +1,7 @@
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "https://excalidraw.com",
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
   "elements": [
     {
       "id": "9tF5ZXWfBVKgwSJBL7yjN",
@@ -696,7 +696,7 @@
       "id": "IGAnnFzZ7OeRCVyzO0z21",
       "type": "text",
       "x": 910.4868887325225,
-      "y": -202.01413610508632,
+      "y": -202.0141361050863,
       "width": 362.8797607421875,
       "height": 125,
       "angle": 0,
@@ -714,11 +714,11 @@
       "index": "aFV",
       "roundness": null,
       "seed": 1076699686,
-      "version": 1344,
-      "versionNonce": 585353402,
+      "version": 1345,
+      "versionNonce": 1015110917,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1755291372839,
+      "updated": 1756306509814,
       "link": null,
       "locked": false,
       "text": "Servers\n\nComputers or programs that provides\nservices, data or resources to other\ncomputers or devices.",
@@ -1005,7 +1005,7 @@
       "version": 463,
       "versionNonce": 830672280,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1755347390850,
       "link": null,
       "locked": false,
@@ -1024,8 +1024,7 @@
     "gridSize": 20,
     "gridStep": 5,
     "gridModeEnabled": false,
-    "viewBackgroundColor": "#fffce8",
-    "lockedMultiSelections": {}
+    "viewBackgroundColor": "#fffce8"
   },
   "files": {}
 }
